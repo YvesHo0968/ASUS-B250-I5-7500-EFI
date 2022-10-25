@@ -1,6 +1,6 @@
 # ASUS-B250-i5-7500-OC-EFI
 OC 8.5
-支持的系统 BigSur 和 Monterey
+支持的系统 BigSur、Monterey和Ventura
 [BIOS 设置](https://zhuanlan.zhihu.com/p/65124550) 低版本系统自行测试
 
 ## 硬件参数
