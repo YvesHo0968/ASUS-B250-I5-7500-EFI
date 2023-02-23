@@ -1,5 +1,5 @@
 # ASUS-B250-i5-7500-OC-EFI
-OC 0.8.8
+OC 0.8.9
 支持的系统 BigSur、Monterey和Ventura
 [BIOS 设置](https://zhuanlan.zhihu.com/p/65124550) 低版本系统自行测试
 
@@ -20,6 +20,8 @@ OC 0.8.8
 4. USB
 
 ## 需要修改
+文件地址 OC/config.plist
+
 参考[GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 1. PlatformInfo->Generic->MLB：需要修改；
