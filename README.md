@@ -1,5 +1,5 @@
 # ASUS-B250-i5-7500-OC-EFI
-OC 0.9.3
+OC 0.9.4
 支持的系统 BigSur、Monterey和Ventura
 [BIOS 设置](https://zhuanlan.zhihu.com/p/65124550) 低版本系统自行测试
 
